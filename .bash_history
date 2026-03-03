@@ -61,3 +61,6 @@ git commit -m "Versão final sem arquivos grandes"
 git remote add origin https://github.com/casadoconcreto170/tecno-fuel-app.git
 git branch -M main
 git push -u origin main -f
+git add .
+git commit -m "Ajuste de scripts"
+git push origin main
