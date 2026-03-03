@@ -16321,3 +16321,4 @@ Details:
 ]
 , rateLimitExceeded
 I0303 03:09:38.447281    1753 conn_opt.go:99] jsonrpc2: <-- error #349: service/healthcheck: {"code":-32008,"message":"Quota exceeded for quota metric 'API requests' and limit 'API requests per minute per user' of service 'cloudcode-pa.googleapis.com' for consumer 'project_number:618104708054'.","data":{"message":"Quota exceeded for quota metric 'API requests' and limit 'API requests per minute per user' of service 'cloudcode-pa.googleapis.com' for consumer 'project_number:618104708054'.","actions":[{"label":"Request a higher quota limit.","command":"geminicodeassist.openExternalURL","commandArgs":["https://cloud.google.com/docs/quotas/help/request_increase"]}],"level":"error","surface":"error_console"}}
+I0303 03:19:24.076633    1753 life_cycle.go:454] aiCharsReportEvery: compute and send aicharsreport metric

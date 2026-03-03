@@ -56,3 +56,8 @@ git push origin main
 rm -rf .git
 rm -rf .cache
 git init
+git add .
+git commit -m "Versão final sem arquivos grandes"
+git remote add origin https://github.com/casadoconcreto170/tecno-fuel-app.git
+git branch -M main
+git push -u origin main -f
