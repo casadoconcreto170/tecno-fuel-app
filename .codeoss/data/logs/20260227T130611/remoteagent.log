@@ -1,0 +1,11 @@
+2026-02-27 13:06:11.402 [info] 
+
+
+
+
+2026-02-27 13:06:11.402 [info] Extension host agent started.
+2026-02-27 13:06:11.425 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tecnoconcretoeng/.codeoss/extensions
+2026-02-27 13:06:11.441 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tecnoconcretoeng/.codeoss/extensions
+2026-02-27 13:06:36.951 [info] [127.0.0.1][287eda55][ManagementConnection] New connection established.
+2026-02-27 13:06:37.193 [info] [127.0.0.1][9d9b11bf][ExtensionHostConnection] New connection established.
+2026-02-27 13:06:38.858 [info] [127.0.0.1][9d9b11bf][ExtensionHostConnection] <1482> Launched Extension Host Process.
