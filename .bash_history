@@ -64,3 +64,6 @@ git push -u origin main -f
 git add .
 git commit -m "Ajuste de scripts"
 git push origin main
+git add .
+git commit -m "Correção definitiva de CSS"
+git push origin main
